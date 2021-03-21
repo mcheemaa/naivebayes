@@ -1,0 +1,8 @@
+Contact Lense Type
+
+Data In Type: age | spectacle-prescrip | astigmatism | tear-prod-rate | 
+
+Data In: presbyopic | hypermetrope | yes | normal | 
+Lense Class Probs: soft: 0.0 hard: 0.5833333333333333 none: 0.4166666666666667 
+Final Class: hard
+

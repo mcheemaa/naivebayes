@@ -1,0 +1,8 @@
+Confusion Matrix & Overall Accuracy
+
+    soft  hard  none
+soft 4      0      1      
+hard 0      1      3      
+none 1      2      12      
+
+Overall Accuracy: 0.7083333333333334
