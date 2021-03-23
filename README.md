@@ -18,27 +18,48 @@ Overall Accuracy: 0.7083333333333334
 
 Contact Lense Type
 
-Data In Type: age | spectacle-prescrip | astigmatism | tear-prod-rate | 
 
-Data In: pre-presbyopic | hypermetrope | no | reduced | 
+Data In Type: age | spectacle-prescrip | astigmatism | tear-prod-rate 
+
+
+Data In: pre-presbyopic | hypermetrope | no | reduced 
+
+Lense Class Probs: soft: 0.0 hard: 0.0 none: 1.0 
+
+Final Class: none
+
+
+
+Data In: young | hypermetrope | no | reduced 
+
 Lense Class Probs: soft: 0.0 hard: 0.0 none: 1.0 
 Final Class: none
 
-Data In: young | hypermetrope | no | reduced | 
+
+
+
+Data In: pre-presbyopic | myope | yes | normal 
+
 Lense Class Probs: soft: 0.0 hard: 0.0 none: 1.0 
+
 Final Class: none
 
-Data In: pre-presbyopic | myope | yes | normal | 
-Lense Class Probs: soft: 0.0 hard: 0.0 none: 1.0 
-Final Class: none
 
-Data In: pre-presbyopic | hypermetrope | no | normal | 
+
+Data In: pre-presbyopic | hypermetrope | no | normal 
+
 Lense Class Probs: soft: 0.7531710661638669 hard: 0.0 none: 0.24682893383613302 
+
 Final Class: soft
 
-Data In: young | myope | yes | normal | 
+
+
+Data In: young | myope | yes | normal 
+
 Lense Class Probs: soft: 0.0 hard: 0.6854914196567862 none: 0.31450858034321383 
+
 Final Class: hard
+
 
 
 
